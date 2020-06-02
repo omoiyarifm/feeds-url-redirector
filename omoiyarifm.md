@@ -8,14 +8,14 @@ permalink: /omoiyarifm/
     
     <link>https://lean-agile.fm</link>
     <title>omoiyari.fm (lean-agile podcast)</title>
-    <description>リーン / アジャイルが好きな よこみち（@ykmc09_dev） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。</description>
-    <media:keywords>リーン,アジャイル,スクラム,XP,マネジメント,lean,agile,scrum,management,yokomichi,横道,omoiyari,思いやり,おもいやり</media:keywords>
+    <description>リーン / アジャイルが好きな よこみち（@ykmc09） と みうら（@miuranobuak） が、それらについて思いやりを持って語ったり語らなかったりする podcast です。</description>
+    <media:keywords>リーン,アジャイル,スクラム,XP,マネジメント,lean,agile,scrum,management,omoiyarifm,思いやりFM,おもいやりFM</media:keywords>
     
     <language>ja</language>
     <itunes:subtitle>リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。</itunes:subtitle>
     <itunes:author>yokomichi miura</itunes:author>
     <itunes:summary>リーン / アジャイルが好きなふたりが、それらについて思いやりを持って語ったり語らなかったりする podcast です。</itunes:summary>
-    <itunes:keywords>リーン,アジャイル,スクラム,XP,マネジメント,lean,agile,scrum,management,yokomichi,横道,omoiyari,思いやり,おもいやり</itunes:keywords>
+    <itunes:keywords>リーン,アジャイル,スクラム,XP,マネジメント,lean,agile,scrum,management,omoiyarifm,思いやりFM,おもいやりFM</itunes:keywords>
     
     <itunes:image href="https://omoiyarifm.github.io/images/artwork.jpg" />
     
